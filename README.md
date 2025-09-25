@@ -33,12 +33,10 @@ All functionality works via **frontend (HTML/CSS/JS) + backend (Node.js/Express)
 
 ##**path**
 book-crud-app/
-│
-├── server.js
-├── package.json
-├── package-lock.json
-│
-└── public/
-    ├── index.html
-    ├── style.css
-    └── javascript.js
+1) server.js
+2) package.json
+3) package-lock.json
+=> public/
+a)index.html
+b)style.css
+c)javascript.js
