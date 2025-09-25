@@ -36,7 +36,7 @@ book-crud-app/
 1) server.js
 2) package.json
 3) package-lock.json
-=> public/
+4) public/
 a)index.html
 b)style.css
 c)javascript.js
